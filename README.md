@@ -52,13 +52,10 @@ after each round.
 _A user loses a guess only when they guess incorrectly._ If they guess a letter
 that is in the computer's word, they do not lose a guess.
 
-If the user guesses the same letter twice, do not take away a guess. Instead,
-print a message letting them know they've already guessed that letter and ask
-them to try again.
+If the user guesses the same letter twice, do not take away a guess. Instead, print a message letting them know they've already guessed that letter and ask them to try again.
 
 The game should end when the user constructs the full word or runs out of
-guesses. If the player runs out of guesses, reveal the word to the user when
-the game ends.
+guesses. If the player runs out of guesses, reveal the word to the user when the game ends.
 
 When a game ends, ask the user if they want to play again. The game begins
 again if they reply positively.
